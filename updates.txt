@@ -1,0 +1,9 @@
+To initialize git into the directory
+git init
+
+To create any file
+touch
+
+To track the file or to create stage of the file
+git add .
+
