@@ -1,6 +1,6 @@
 # Day 1
 
-## To initialize git into the directory
+### To initialize git into the directory
 git init
 
 ### To create any file
@@ -15,7 +15,7 @@ git commit -m "Commit message"
 ### To check the status of git
 git status
 
-# To check my updates logs
+### To check my updates logs
 git log
 
 ### To check the available branch
