@@ -1,3 +1,10 @@
+# Assignment
+
+1. Create a new repo
+2. Add your Introduction and learning journey into yourname.txt
+3. Push it into your remote repo
+4. Send me your repo url at hello@milanthapa.me
+
 # Day 1
 
 ### To initialize git into the directory
