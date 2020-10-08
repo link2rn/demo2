@@ -52,3 +52,22 @@ git push origin -d <BRANCH_NAME>
 ### Reset HEAD or revert
 git reset --hard HEAD~step
 git reset --hard <COMMIT_ID>
+
+# Open Source Contribution / Creating PR
+
+### Fork other's remote repo into your repo
+Click on fork button
+
+### Clone or Download the repo into our local
+git clone <Remote_URL.git>
+
+### Add Orginal Author's repo for update
+git remote add upstream <Orginal author's GIT repo .git>
+
+### Get updates from Author's repo
+git pull upsatream <BRANCH_NAME>
+
+### After pushing your local to remote
+Create a PR (Pull Request) by clearly adding comment and detail what have you changed.
+
+Your repo will me merged after author reviews and validate the merge request

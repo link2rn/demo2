@@ -1,2 +1,0 @@
-This is Milan Thapa.
-We're on Day 1 of Git and Github Training
